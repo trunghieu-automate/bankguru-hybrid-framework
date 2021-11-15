@@ -1,0 +1,4 @@
+# Created at 2021-11-11T04:45:03.252
+Boot Manifest-JAR contains absolute paths in classpath 'D:\HIEU DAILY\MVN\hybrid-framework-bankguru\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

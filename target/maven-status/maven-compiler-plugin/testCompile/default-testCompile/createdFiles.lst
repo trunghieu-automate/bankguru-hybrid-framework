@@ -1,0 +1,4 @@
+testcases\com\bankguru\TC_02_New_Customer.class
+testcases\com\bankguru\TC_01_Access_User_Generator.class
+testcases\PreRunTest.class
+testcases\com\bankguru\TC_03_Edit_Customer.class

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Bankguru">
+
+    <listeners>
+        <listener class-name="actions.common.MethodListener"/>
+        <listener class-name="utilities.listeners.AllureTestListener"/>
+    </listeners>
+
+    <parameter name="browserName" value="chrome"/>
+    <test name="New customer page">
+        <classes>
+            <class name="testcases.com.bankguru.TC_02_New_Customer"/>
+        </classes>
+    </test>
+</suite>

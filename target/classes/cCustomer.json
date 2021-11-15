@@ -1,0 +1,18 @@
+{
+  "account": {
+    "accountId": "100576",
+    "accountType": "Current",
+    "accountAmount": "480000"
+  },
+  "name": "Remus Philipeaux",
+  "gender": "M",
+  "dob": "08/30/1976",
+  "emailid": "rphilipeauxn@1688.com",
+  "addr": "222 Bird Nest",
+  "userId": "65473",
+  "password": "02mrJWEfr",
+  "city": "Sky Fall",
+  "state": "Cloudy",
+  "pinno": "256409",
+  "telephoneno": "7137898585"
+}
